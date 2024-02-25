@@ -2,6 +2,8 @@
 <h3 align="center">A passionate software engineer and Data Scientist from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-bencheikh&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-bencheikh" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mohamed-bencheikh&label=Profile%20views&color=0e75b6&style=flat](https://static.tildacdn.com/tild6438-3931-4533-b265-616561383135/orig.gif)" alt="developer" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://medbc.me](https://medbc.me)
 
