@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-bencheikh&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-bencheikh" /> </p>
 
 <!--![dev](https://github.com/Mohamed-Bencheikh/Mohamed-Bencheikh/assets/85040912/4592c64b-c4da-48d8-b402-db18acbdfab7)-->
-- 👨‍💻 All of my projects are available at: 🌐 **[https://medbc.me](https://medbc.netlify.app)**
+- 👨‍💻 All of my projects are available at: 🌐 **[https://medbc.netlify.app](https://medbc.netlify.app)**
 
 - 📫 You can reach out to me at: 📧 **bencheikhmohamed811@gmail.com**
 
